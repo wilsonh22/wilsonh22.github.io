@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/Screenshot Bjack.png
 title: "BlackJack"
 date: 2024-08-02
 labels:
