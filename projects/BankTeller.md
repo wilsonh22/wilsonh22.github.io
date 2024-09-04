@@ -6,8 +6,8 @@ title: "Bank Teller"
 date: 2023-10-29
 published: true
 labels:
-  - Lisp
-  - GitHub
+  - C
+  - C++
 summary: "A Bank Teller program that I developed for ICS 212."
 ---
 
