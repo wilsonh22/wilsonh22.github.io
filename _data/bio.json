@@ -23,10 +23,6 @@
     {
       "name": "Languages and Frameworks",
       "keywords": [ "C", "Python", "Java", "html", "CSS" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "education": [
