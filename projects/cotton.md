@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/bank.jpg
 title: "Bank Teller"
 date: 2014
 published: true
