@@ -16,7 +16,7 @@ BlakcJack is a card game where you as a player play against the dealer to try to
 
 <div class="text-center p-4">
  <img src="https://www.kjartan.co.uk/games/pix/cards/stand%20or%20bust.jpg" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 506px; height: 190px; margin: 0px; width: 506px;" alt="How to play Blackjack" jsname="kn3ccd">
-<img src="https://i1.wp.com/oneidacasino.net/wp-content/uploads/2020/03/Blackjack.png?strip=all" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 360px; height: 190px; margin: 0px; width: 130px;" alt="What Are Cards Worth In Blackjack - India 2023" jsname="kn3ccd">
+<img src="https://i1.wp.com/oneidacasino.net/wp-content/uploads/2020/03/Blackjack.png?strip=all" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 506px; height: 190px; margin: 0px; width: 200px;" alt="What Are Cards Worth In Blackjack - India 2023" jsname="kn3ccd">
 </div>
 
 
