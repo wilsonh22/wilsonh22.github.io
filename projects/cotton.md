@@ -2,13 +2,13 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
+title: "Bank Teller"
 date: 2014
-published: false
+published: true
 labels:
   - Lisp
   - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+summary: "A Bank Teller program that I developed for ICS 212."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
