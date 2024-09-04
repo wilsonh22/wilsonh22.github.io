@@ -12,12 +12,13 @@ The goal of this project was to test my skills as a programmer by using concepts
 
 **What is BlackJack?**
 
-BlakcJack is a card game where you as a player play against the dealer to try to out score the dealer. The best hand possible in the game is 21 which "BlackJack" and you win, but go over 21 or have less points than the dealer then you lose. Here are some pictures of some hands in BlackJack to give an example
+BlakcJack is a card game where you as a player play against the dealer to try to out score the dealer. The best hand possible in the game is 21 which "BlackJack" and you win, but go over 21 or have less points than the dealer then you lose. In the images below will show you examples of a good hand, a bad hand/bust, and a BlackJack.
 
 <div class="text-center p-4">
  <img src="https://www.kjartan.co.uk/games/pix/cards/stand%20or%20bust.jpg" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 506px; height: 190px; margin: 0px; width: 506px;" alt="How to play Blackjack" jsname="kn3ccd">
 <img src="https://i1.wp.com/oneidacasino.net/wp-content/uploads/2020/03/Blackjack.png?strip=all" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 506px; height: 190px; margin: 0px; width: 200px;" alt="What Are Cards Worth In Blackjack - India 2023" jsname="kn3ccd">
 </div>
+
 
 
 Here is some code that illustrates how we read values from the line sensors:
