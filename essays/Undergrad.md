@@ -12,12 +12,7 @@ labels:
 
 
 ## Welcome to Typescript
-<img  align= "left" width="230px" class="rounded float-start pe-4" src="../img/igniting/decisions.png"> [Being an ICS undergrad student we have been thrown into various languages to learn like Java, C, C++, Python, and Typescript. These experiences as an undergraduate are to find ourselves; to figure out who we are or want to be after we graduate under the ICS major. So in our ICS 314 class, my experience with Typescript has been phenomenal. I love how easily the flow of the language is. Having experience with the various languages heavily impacted how easily I could pick up on Typescript since all coding languages can do the same job, but do it differently in terms of how you communicate with the computer via syntax. Everything I have learned from the assignments thus far was more of a refresher to get me back into the groove of coding after a long summer break.]
-
-
-
-
-## Whats the difference?
+<img  align= "left" width="230px" class="rounded float-start pe-4" src="../img/igniting/decisions.png"> Being an ICS undergrad student we have been thrown into various languages to learn like Java, C, C++, Python, and Typescript. These experiences as an undergraduate are to find ourselves; to figure out who we are or want to be after we graduate under the ICS major. So in our ICS 314 class, my experience with Typescript has been phenomenal. I love how easily the flow of the language is. Having experience with the various languages heavily impacted how easily I could pick up on Typescript since all coding languages can do the same job, but do it differently in terms of how you communicate with the computer via syntax. Everything I have learned from the assignments thus far was more of a refresher to get me back into the groove of coding after a long summer break.
 <img  align= "left" width="400px" class="rounded float-start pe-4" src="../img/igniting/Ccode.png">As a novice coder, I cannot say I see a difference between the different languages. Coding in different languages throughout my courses I have felt that there have been minimal differences between the languages, but specifically, I have Typescript and Python on the same level as my favorite just because I find that these languages are easy to understand and use.In languages like Java, I struggled to create classes because I didn’t understand the many different labels in the classes. For example, as we were learning about Java, we struggled to understand static, void, private, and public. 
 
 <img align= "right" width="400px" class="rounded float-start pe-4" src="../img/igniting/javahead.png">
@@ -29,8 +24,4 @@ The athletic software engineering has been very humbling while being an amazing 
 <img align= "left" width="300px" class="rounded float-start pe-4" src="../img/igniting/fall.png">
 <img align= "right" width="300px" class="rounded float-start pe-4" src="../img/igniting/climb.png">
 
-
-<img src="https://example.com/image.png" alt="Example Image" align="left" width="150" style="margin-right: 10px;" />
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque viverra massa at augue commodo, non faucibus mi vulputate. Nulla facilisi. Duis in lacus libero. Sed vehicula risus at dui hendrerit, non tempus nisi ultricies. Vivamus ac lectus tincidunt, feugiat elit vel, faucibus libero. Integer eu risus at lacus malesuada congue. 
 
