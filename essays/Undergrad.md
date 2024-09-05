@@ -29,3 +29,8 @@ The athletic software engineering has been very humbling while being an amazing 
 <img align= "left" width="300px" class="rounded float-start pe-4" src="../img/igniting/fall.png">
 <img align= "right" width="300px" class="rounded float-start pe-4" src="../img/igniting/climb.png">
 
+
+<img src="https://example.com/image.png" alt="Example Image" align="left" width="150" style="margin-right: 10px;" />
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque viverra massa at augue commodo, non faucibus mi vulputate. Nulla facilisi. Duis in lacus libero. Sed vehicula risus at dui hendrerit, non tempus nisi ultricies. Vivamus ac lectus tincidunt, feugiat elit vel, faucibus libero. Integer eu risus at lacus malesuada congue. 
+
