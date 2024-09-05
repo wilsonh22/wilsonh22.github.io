@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/igniting/decisions.png">
 
 ## Welcome to Typescript
 	
