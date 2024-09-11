@@ -11,8 +11,8 @@ labels:
 
 
 
-<h2 style="color: purple;  margin-left: 250px;">Where it all started</h2>
-<img  align= "left" width="300px" class="rounded float-start pe-4" src="../img/difficulty/lego.jpeg">Ever since I was young I always had an interest in technology. Before I knew about computer science I wanted to be an engineer because I wanted to build things. I remember the first thing I ever built was a little robot made of snack parts consisting of Capri Sun boxes, clear plastic bowls, ripped cloth, and markers. I made this as an arts and crafts assignment in the third grade and the best part about it was that I got to take it home. I showed it to my parents and said “Look, look I am this in class. It's my new little brother”.  If it weren’t for that day I don’t think I could have ever gotten into computer science today. The fact that I was able to use my creativity to make something with the resources available to me pushed me into the tech-driven mindset that I have today.
+<h2 style="color: purple;  margin-left: 300px;">Where it all started</h2>
+<img  align= "left" width="250px" class="rounded float-start pe-4" src="../img/difficulty/lego.jpeg">Ever since I was young I always had an interest in technology. Before I knew about computer science I wanted to be an engineer because I wanted to build things. I remember the first thing I ever built was a little robot made of snack parts consisting of Capri Sun boxes, clear plastic bowls, ripped cloth, and markers. I made this as an arts and crafts assignment in the third grade and the best part about it was that I got to take it home. I showed it to my parents and said “Look, look I am this in class. It's my new little brother”.  If it weren’t for that day I don’t think I could have ever gotten into computer science today. The fact that I was able to use my creativity to make something with the resources available to me pushed me into the tech-driven mindset that I have today.
  <br>
  <br>
  <h2 style="color: purple;  margin-left: 300px;">So What NOW?</h2>
