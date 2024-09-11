@@ -11,44 +11,15 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+	Ever since I was young I always had an interest in technology. Before I knew about computer science I wanted to be an engineer because I wanted to build things. I remember the first thing I ever built was a little robot made of snack parts consisting of Capri Sun boxes, clear plastic bowls, ripped cloth, and markers. I made this as an arts and crafts assignment in the third grade and the best part about it was that I got to take it home. I showed it to my parents and said “Look, look I am this in class. It's my new little brother”.  If it weren’t for that day I don’t think I could have ever gotten into computer science today. The fact that I was able to use my creativity to make something with the resources available to me pushed me into the tech-driven mindset that I have today.
+ <br>
+ <br>
+	In the field of computer science, I want to be able to work with data. My end goal is to become a data scientist who can predict the future based on the knowledge/data available to said subject. I have researched the field and I have found that the main qualities of this field almost perfectly match with all my interests. Data science is a good middle ground for computer science, math, and business expertise, all of which were the three majors I had a lot of interest in except math. My interest in math was mainly just to understand why things work; I like to know and learn things but trying to do the math and doing it right drives me NUTS!!
+  <br>
+ <br>
+	Most expertise that I want to learn will be things coming from this class. Learning to use APIs and building full-stack applications is what I want to get out of this class to start building projects that interest me. My current ability has plateaued. I have tried to do independent projects and project-based learning, figuring out everything on my own or online, but every time I have tried I always experience massive frustration and burn-out to the point where I can’t even call what I made a project. With this class, I have a professor and TAs who I have to help me when I get stuck, but also I have a wonderful guide website that sets students up for success as long as they put the expected amount of effort into the class.
+  <br>
+ <br>
+	The possibilities with software engineering are endless, especially now since AI is easily accessible. You implement them into whatever project you want and make it do whatever you want. I want to explore these possibilities with software engineering so I can make projects that I have an interest in. When trying to create a project all I could do was make small projects that only project into the terminal. The only knowledge of coding I had at the time was either Java or C and we only use those languages exclusively, but with ICS 314 we are learning how to develop front-end programs to have web pages like YouTube, Google,  and Instagram where you can design the page and make you own instead of print statements in the terminal. To be able to create something that's even worth looking at aesthetically gives me excitement and motivation to create something that I can call my own and hopefully be of use to other people.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
