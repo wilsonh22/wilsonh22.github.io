@@ -9,9 +9,10 @@ labels:
   - Computer Science
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-Ever since I was young I always had an interest in technology. Before I knew about computer science I wanted to be an engineer because I wanted to build things. I remember the first thing I ever built was a little robot made of snack parts consisting of Capri Sun boxes, clear plastic bowls, ripped cloth, and markers. I made this as an arts and crafts assignment in the third grade and the best part about it was that I got to take it home. I showed it to my parents and said “Look, look I am this in class. It's my new little brother”.  If it weren’t for that day I don’t think I could have ever gotten into computer science today. The fact that I was able to use my creativity to make something with the resources available to me pushed me into the tech-driven mindset that I have today.
+
+<h2 style="color: purple;  margin-left: 300px;">How'd I get here"</h2>
+<img  align= "left" width="300px" class="rounded float-start pe-4" src="../img/igniting/decisions.png">Ever since I was young I always had an interest in technology. Before I knew about computer science I wanted to be an engineer because I wanted to build things. I remember the first thing I ever built was a little robot made of snack parts consisting of Capri Sun boxes, clear plastic bowls, ripped cloth, and markers. I made this as an arts and crafts assignment in the third grade and the best part about it was that I got to take it home. I showed it to my parents and said “Look, look I am this in class. It's my new little brother”.  If it weren’t for that day I don’t think I could have ever gotten into computer science today. The fact that I was able to use my creativity to make something with the resources available to me pushed me into the tech-driven mindset that I have today.
  <br>
  <br>
 In the field of computer science, I want to be able to work with data. My end goal is to become a data scientist who can predict the future based on the knowledge/data available to said subject. I have researched the field and I have found that the main qualities of this field almost perfectly match with all my interests. Data science is a good middle ground for computer science, math, and business expertise, all of which were the three majors I had a lot of interest in except math. My interest in math was mainly just to understand why things work; I like to know and learn things but trying to do the math and doing it right drives me NUTS!!
