@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/dummy.jpg">
 
 # What are Questions
 The best way to learn about anything in life is to ask questions. Asking a question shows that you are curious about the problem presented to you and want to figure out how to fix it or why the problem happened in the first place. With that being said not all questions are good questions, meaning not all questions deserve an answer. When we ask questions we want to make sure these questions aren’t questions that aren’t easily answered through a quick Google search. So let's talk about what differentiates good questions from bad questions and how they affect how people react or answer them. 
