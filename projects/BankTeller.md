@@ -91,3 +91,5 @@ int addRecord(struct record **start,int uaccountno, char uname[], char uaddress[
 }
 
 ```
+
+This is the function for our addrecord this uses double pointers by passing the address of the record through pointers (address of is one pointer, pointer pointing it another pointer) as a linked list that is organized by account number. This function allows for us to insert accounts to the front, middle, or end of the linked list by redirecting where pointers point to put them in proper order.
