@@ -33,7 +33,7 @@ def Total(turn):
     for card in turn:
         if card in range(1,11): #checks the value to ensure that its none of the special
             total += card #adds value of the card to total
-        elif card in special: #J Q or K values
+        else if card in special: #J Q or K values
             total += 10
         else: #Ace functionality has problems 
             if total >= 11:
