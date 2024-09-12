@@ -3,7 +3,7 @@ layout: project
 type: project
 image: img/tacocat.png
 title: "Palindrome"
-date: 2023
+date: 2023-03-12
 published: true
 labels:
   - Java
