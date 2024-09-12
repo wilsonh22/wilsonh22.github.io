@@ -26,12 +26,21 @@ Here is some code that illustrates how we read values from the line sensors:
 ```cpp
 byte ADCRead(byte ch)
 {
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
+   #Calculate values
+def Total(turn):
+    total = 0 #starting value of the game
+    special = ['J','Q','K']
+    for card in turn:
+        if card in range(1,11): #checks the value to ensure that its none of the special
+            total += card #adds value of the card to total
+        elif card in special: #J Q or K values
+            total += 10
+        else: #Ace functionality has problems 
+            if total >= 11:
+                total += 1
+            else:
+                total += 11
+    return total
 }
 ```
 
