@@ -43,4 +43,4 @@ def Total(turn):
     return total
 }
 ```
-In this snipped of I created a function that takes in J, Q, and K and replace them with the value of 10 by creating and adding them to an array called special. The ace as a little different from the J, Q, and K. A is considered either 1 or 11, so to account for the Ace functionality can be called for both 1 and 11. By using if and else if we cover the J, Q, and K leaving the else to be directly account for the Ace.
+In this snipped of I created a function that takes in J, Q, and K and replace them with the value of 10 by creating and adding them to an array called special. The ace as a little different from the J, Q, and K. A is considered either 1 or 11, so to account for the Ace functionality can be called for both 1 and 11. By using if and else if we cover the J, Q, and K leaving the else to be directly account for the Ace. This was the part of my code that I had the hardest time coding and figuring out the idea of. This coding experience taught me to draw and test my thoughts through trial and errors until I found the solution.
