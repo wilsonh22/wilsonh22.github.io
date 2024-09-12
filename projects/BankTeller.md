@@ -18,5 +18,76 @@ This coding project was the most difficult project I have worked on to this day 
 
 Here is a snippet of a function that uses double pointers:
 ```cpp
+int addRecord(struct record **start,int uaccountno, char uname[], char uaddress[] )
+{
+    int stop;
+    stop = 0;
+    if(debugmode == 1)
+    {
+         printf("\nDebug Mode: addRecord");
+         printf("\naccountNum: %d\n", uaccountno);
+         printf("name: %s\n", uname);
+         printf("address: %s\n", uaddress);
+    }
+    if(*start == NULL)
+    {
+       struct record* ptr = (struct record*)malloc(sizeof(struct record));
+       if(ptr == NULL)
+       {
+           stop = -1;
+           return stop;
+       }
+        (*start) = ptr;
+        ptr->accountno = uaccountno;
+        strncpy(ptr->name,uname,sizeof(ptr->name)-1);
+        strncpy(ptr->address,uaddress,sizeof(ptr->address)-1);
+        ptr->next = NULL;
+    }
+    else
+    {
+        struct record* temp;
+        struct record* previous;
+        temp = *start;
+        previous = NULL;
+        while(temp != NULL)
+        {
+            if(uaccountno == temp->accountno)
+            {
+            stop = -1;
+            temp = NULL;
+            return stop;
+            }
+            else if(uaccountno < temp->accountno)
+            {
+                struct record* ptr = (struct record*)malloc(sizeof(struct record));
+                if(ptr == NULL)
+                {
+                    stop = -1;
+                    return stop;
+                }
+                ptr->accountno = uaccountno;
+                strncpy(ptr->name, uname, sizeof(ptr->name)-1);
+                strncpy(ptr->address, uaddress, sizeof(ptr->name)-1);
+                if(previous == NULL)
+                {
+                    ptr->next = *start;
+                    *start = ptr;
+                }
+                else
+                {
+                    previous->next = ptr;
+                    ptr->next = temp;
+                }
+                return stop;
+            }
+            else
+            {
+            previous = temp;
+            temp = temp->next;
+            }
+        }
+    }
+    return stop;
+}
 
 ```
