@@ -13,87 +13,10 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
-## Is there such thing as a stupid question?
+The best way to learn about anything in life is to ask questions. Asking a question shows that you are curious about the problem presented to you and want to figure out how to fix it or why the problem happened in the first place. With that being said not all questions are good questions, meaning not all questions deserve an answer. When we ask questions we want to make sure these questions aren’t questions that aren’t easily answered through a quick Google search. So let's talk about what differentiates good questions from bad questions and how they affect how people react or answer them. 
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+Good questions are questions that are presentable meaning they are easy to understand. Questions need to be easy to understand because if the person trying to help doesn’t know what it is you’re confused with then they can’t help you. Here is a good example of a “Good Question” that I found on StackOverflow; the person wants to know how to make his iPhone animation sticky/static so the phone will fully unlock before moving out of the way. In said question, the person was short and to the point with his problem while also providing his source code for people to look at and dissect to be able to find a solution. Since this person provided all the sufficient information required to understand the problem shows they know how to ask appropriate questions while also being respectful to the helpers.
 
-## What’s a smart question?
+Bad questions are questions that most people will ignore because the person asking seems like a prick who did not put in the effort to make their question legible. A “Bad Question” I found on StackOverflow asked “Get total as you type with added column (append) using jQuery” followed by HTML code and Javascript code. This question makes it hard to answer because they don’t describe the problem, tell what happened, or what they are trying, and throw a bunch of code with little to no description of what the code is supposed to do. To most people trying to help this person seems like a person who, “takes but never gives”; they are the type of person who only wants the answers and does not learn or understand why the problem surfaced in the first place. If they want to understand or be worth teaching they they would talk about their approach and specifically ask what they need rather than saying they have a problem they need fixed.
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
-
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
-
-```
-Q: python date of the previous month
-
-I am trying to get the date of the previous month with python. Here is what i've tried:
-
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
-
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
-
-I have solved this trouble in bash with:
-
-echo $(date -d"3 month ago" "+%G%m%d")
-
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
-
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
-
-Thanks for your help!
-```
-
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
-
-```
-A: datetime and the datetime.timedelta classes are your friend.
-
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
-
-Like this:
-
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
-
-```
- 
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
-
-## The foolproof way to get ignored.
-
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
-```
-Q: Facebook Desktop Notifier
-
-I am a beginner programmer that have never used anything other than what's included in a language.
-
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
-
-## Conclusion
-
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+Writing a “Good Question” will make the difference if you want your question to be answered. Imagine being the hacker who reads the question, “What kind of questions would you be willing to answer”? If the questions make you do a bunch of extra words that couldn’t have been avoided if they gave the specific information and organization the good questions would have. If you would not want to answer the question because it takes too much effort to even comprehend what they need to figure out or what the problem is, then how can you expect other people to answer the question? So MAKE SURE YOU ASK GOOD QUESTIONS IF YOU’RE GOING TO ASK OTHER PEOPLE TO HELP YOU. 
