@@ -2,14 +2,12 @@
 layout: project
 type: project
 image: img/micromouse/micromouse-square.jpg
-title: "Micromouse"
+title: "Palindrome"
 date: 2023
-published: false
+published: true
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: "My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition."
+  - Java
+summary: "My class assignment was to create a function that would check if a word is a palindrome."
 ---
 
 <div class="text-center p-4">
