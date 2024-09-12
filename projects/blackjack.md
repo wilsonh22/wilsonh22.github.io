@@ -21,7 +21,7 @@ BlakcJack is a card game where you as a player play against the dealer to try to
 
 
 
-Here is some code that illustrates how we read values from the line sensors:
+Here is some code that illustrates how we I account for special cards J, Q, K, and A:
 
 ```cpp
 byte ADCRead(byte ch)
@@ -43,5 +43,4 @@ def Total(turn):
     return total
 }
 ```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+In this snipped of I created a function that takes in J, Q, and K and replace them with the value of 10 by creating and adding them to an array called special. The ace as a little different from the J, Q, and K. A is considered either 1 or 11, so to account for the Ace functionality can be called for both 1 and 11. By using if and else if we cover the J, Q, and K leaving the else to be directly account for the Ace.
