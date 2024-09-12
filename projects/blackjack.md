@@ -10,6 +10,7 @@ summary: "I developed the BlackJack card game in python"
 ---
 The goal of this project was to test my skills as a programmer by using concepts I have learned in my classes and to put htem into one program. Blackjack required loops, classes, if statements, etc. Creating this program help to refresh concepts and to practice developing code from scratch. Building from scratch helped me to build a process to go through that would help me as a developer to create better code effiecently.
 
+I worked on this project on my own with no contributors. I only was rsponsible for creating a draw function the would add cards to an array, creatin a fucntionality that tranforms royals (J, Q, K, A) in to proper numbers, and terst for all errors to write runable code. This took a lot of drawing and mapping the function to figure out and understand what exactly I was tring to code.
 **What is BlackJack?**
 
 BlakcJack is a card game where you as a player play against the dealer to try to out score the dealer. The best hand possible in the game is 21 which "BlackJack" and you win, but go over 21 or have less points than the dealer then you lose. In the images below will show you examples of a good hand, a bad hand/bust, and a BlackJack.
