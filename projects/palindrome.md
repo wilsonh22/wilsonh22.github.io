@@ -13,7 +13,7 @@ A palindrome is when a word or phrase is spelled the same forward and backwards.
 
 I was not the only contributor of this program. For our ICS 211 class we were given pre-coded code that had bits and parts left out that was specifically made to match what we were learing in lectures. For this assignment we were learning aboutt he data structure Stacks which is a LIFO (Last in First out) approach. Other the pre-code code I was responsible for the completion of the assignment, meaning I had to make sure the product could person they was it was intended meaning no errors.
 
-This project helped me to learn and understand the implementation of stacks. In we'd learn about what a stack is and how it works. In class we were presented with an analogy for stacks which was stacking dishes,you put dished on top of each other, but to get the bottom dish you must remove the top dish first. 
+This project helped me to learn and understand the implementation of stacks. In we'd learn about what a stack is and how it works. In class we were presented with an analogy for stacks which was stacking dishes, you put dished on top of each other, but to get the bottom dish you must remove the top dish first. 
 
 Here is the full source code for the Palindrome checker:
 
