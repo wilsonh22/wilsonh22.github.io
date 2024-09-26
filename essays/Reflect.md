@@ -11,7 +11,7 @@ labels:
   - Organization
 ---
 
-<img width="650px" class="rounded float-start pe-4" src="../img/neat.jpg">
+<img width="550px" class="rounded float-start pe-4" src="../img/neat.jpg">
 
 For coding standards seem like a default for me since I have been using it since last year in my ICS 212 class. In this class we were grading a “Coding Style” which was grading though the same system using lint. Using lints does feel like a hassle in the beginning but, as I improve with my coding abilities I have found that lint is the greatest asset I have used in coding since ChatGPT.
 	The organization of the code via lint makes everything easier to read and understand. When I code i tend to me spontaneous when trying to figure out how to approach a problem, so I will try one part as much as I can and if I can do it I’ll try to do a different class in the same code and do as much as I can in each part till I figure out a way to implement my code. With the use of lint I can keep my code in check so that it is readable allowing me to look back at the code if I need to relearn some concepts used in specific projects.
