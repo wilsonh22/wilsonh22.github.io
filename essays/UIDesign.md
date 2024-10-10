@@ -14,7 +14,7 @@ labels:
   - Bootstraps
 ---
 
-<img width="550px" class="rounded float-start pe-4" src="../img/neat.jpg">
+<img width="550px" class="rounded float-start pe-4" src="../img/Bootstraps/DIV.png">
 
 # Reflection of UI frameworks
 The general experience of working with Bootstraps has made many aspects of front-end development easier, but even with the framework development was still a nuisance. Developing UIs in general is enjoyable for me because I can see what it is that I am designing and changing UI, but the actual coding aspects makes me want to bash my head into a wall. Bootstraps added many things that we could add to a DIV to efficiently make things like navbars and Icons so we don’t have to manually make or import images.
