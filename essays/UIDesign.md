@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Reflect on Coding Standards"
+title: "Reflect on UI Frameworks"
 # All dates must be YYYY-MM-DD format!
 date: 2024-10-09
 published: true
