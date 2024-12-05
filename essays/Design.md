@@ -13,7 +13,7 @@ labels:
   - BASH
 ---
 
-<img width="550px" class="rounded float-start pe-4" src="../img/neat.jpg">
+<img width="550px" class="rounded float-start pe-4" src="../img/groupcd.png">
 
 # Becoming a StudyBuddy
 For my group's ICS 314 project, we were tasked with developing a website where students can plan study sessions and connect with classmates. The goal was to create a useful tool to supplement students' studies. Throughout the project’s development, I gained both soft and technical skills that significantly improved my coding abilities. Some of these skills include effective communication, efficient use of GitHub, and a deeper understanding of coding functions that I can now confidently replicate. 
