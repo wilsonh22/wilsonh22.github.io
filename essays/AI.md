@@ -12,7 +12,7 @@ labels:
   - AI
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/gpt.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/gpt.png">
 
 # How AI got me through School
 
