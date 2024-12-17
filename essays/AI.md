@@ -16,19 +16,21 @@ labels:
 
 <img width="250px" class="rounded float-start pe-4" src="../img/Bootstraps/DIV.png">
 
-# Reflection of UI frameworks
-The general experience of working with Bootstraps has made many aspects of front-end development easier, but even with the framework development was still a nuisance. Developing UIs in general is enjoyable for me because I can see what it is that I am designing and changing UI, but the actual coding aspects makes me want to bash my head into a wall. Bootstraps added many things that we could add to a DIV to efficiently make things like navbars and Icons so we don’t have to manually make or import images.
+# How AI got me thorught School
 
-# Experience of frameworks
-During our WODS and practice WODS we practiced with the Bootstrap framework to get used to using the framework but writing. I like developing the code line by line and seeing how every little thing changes something and that I could see the change as I actively rewrote my code. Unlike back-end development I would have to write an in-line test method or print statements to check everything to see if they function correctly. Now that I’ve had a weeks worth of experience of UI design every time I see a webpage, all i hear is “DIV DIV DIV DIV DIV”, DIVs were everywhere DIV this DIV that and if you forgot a DIV or didn't use a DIV then the webpage usually wouldn't look like how it should.
+The use of Artificial Intelligence (AI) has exponentially excelled my learning in this class, transforming the way I approach problems and develop solutions. Having AI available allows me to get help whenever I need, especially when TA’s and Professors are available when an issue occurs. Throughout my academic and professional journey, including my experience in ICS 314, I have utilized several AI-powered tools to support my learning and development processes. Among the tools I have employed are GitHub Copilot, ChatGPT, and Claude.
 
-<img width="300px" class="rounded float-start pe-4" src="../img/Bootstraps/boots.png">
+When using AI specifically for all the WODs I heavily relied on chatGPT to help code and explain how the function would work so I could understand how to code it and how it works for future reference. In almost every practice WOD I required chatGPT to write the code for me, then explain to me how it worked line by line to see how it functioned.. For essays I only used AI to structure my essay better and word choice. The use of AI was integral to making my project work, many things like creating card components and structuring the exactly how I wanted would not have been able to to be done without the use of AI.
 
-# Bootstraps imports
-The imports that we could use for Bootstraps that I enjoyed the most during this experience was the Icon import. This allowed me to write something like <i class=”bi bi-facebook”> to set up the icon for a navbar or a link to another page that many webpages use. Without this import I would not be able to replicate the different web pages that we have made. I found this import to be the most useful and definitely plan to implement this in future projects. 
+Outside ICS 314, I have explored practical applications of AI in real-world projects and collaborative activities. For example I always use chatGPT to create practice exams to prep and learn for me to do well for my Physics 152 class. Whenever I get stumped on a specific problem I could also ask chatGPT to solve the problem and show their work and formulas.
 
-# Conclusion
-In conclusion, working with Bootstrap has streamlined front-end development, making tasks like creating nav bars and icons much easier, though coding UI can still feel tedious. Despite the challenges, I enjoyed the process of seeing immediate visual changes and found Bootstrap's icon imports particularly useful. This experience has deepened my appreciation for UI design and will definitely influence how I approach future projects.
+While AI tools have been proven to make many things easier,, I have encountered challenges and limitations in their use. For instance, sometimes when trying to create a specific aspect of the UI the prompt that I provide chatGPT will not fully understand what I want giving unwanted results that can’t be used. Despite these challenges, AI presents significant opportunities for further integration into software engineering education
+
+Compared to traditional teaching methods, AI-enhanced approaches offer numerous benefits in learning software engineering. AI offers real time feedback whenever necessary allowing for students to learn on their own schedule whenever there's conflict with office hours. Traditional teaching methods still play an essential role in developing foundational skills, but AI tools complement these methods by enhancing efficiency and personalization.
+
+Looking ahead, AI will play an increasingly prominent role in software engineering education. But it also heavily affects the growth of software engineers. With everyone relying on chatGPT, the next generation of coders may not be able to relay the same results in the workforce. It may come to the point where many jobs that people are working now will get replaced by AI unless they have something special that AI can’t do.
+
+AI has significantly enhanced my learning experience in ICS 314 and beyond, enabling me to overcome challenges, improve my coding skills, and learn more efficiently. While tools like ChatGPT and GitHub Copilot provide valuable support, they also come with limitations, such as occasional misunderstandings. Looking ahead, AI will play a larger role in software engineering education, offering personalized learning and real-time assistance. However, it is essential to balance AI use with developing foundational skills to ensure the next generation of software engineers remains capable and innovative.
 
 
 
