@@ -14,7 +14,7 @@ labels:
   - Bootstraps
 ---
 
-<img width="250px" class="rounded float-start pe-4" src="../img/chat-gpt-memes.htm">
+<img width="250px" class="rounded float-start pe-4" src="../img/gpt.png">
 
 # How AI got me thorught School
 
