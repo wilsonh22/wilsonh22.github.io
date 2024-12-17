@@ -14,9 +14,9 @@ labels:
   - Bootstraps
 ---
 
-<img width="250px" class="rounded float-start pe-4" src="../img/gpt.png">
+<img width="300px" class="rounded float-start pe-4" src="../img/gpt.png">
 
-# How AI got me thorught School
+# How AI got me through School
 
 The use of Artificial Intelligence (AI) has exponentially excelled my learning in this class, transforming the way I approach problems and develop solutions. Having AI available allows me to get help whenever I need, especially when TA’s and Professors are available when an issue occurs. Throughout my academic and professional journey, including my experience in ICS 314, I have utilized several AI-powered tools to support my learning and development processes. Among the tools I have employed are GitHub Copilot, ChatGPT, and Claude.
 
