@@ -1,17 +1,15 @@
 ---
 layout: essay
 type: essay
-title: "Reflect on UI Frameworks"
+title: "Reflect on Your Use of AI in ICS 314"
 # All dates must be YYYY-MM-DD format!
-date: 2024-10-09
+date: 2024-12-16
 published: true
 labels:
   - Software Engineering
   - Learning
   - Organization
-  - HTML
-  - CSS
-  - Bootstraps
+  - AI
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="../img/gpt.png">
