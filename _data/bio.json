@@ -63,9 +63,18 @@
       ]
     }
   ],
-  "references": [
+  "Projects": [
     {
-      "name": "Available upon request"
+      "name": "Bank Teller Program C/C++"
+      "highlights": [ 
+        "This program is a bank teller app with a user-friendly UI that is easy to understand and use. This code has the following functions: Add (data collection), Find (data retrieval), Delete (removing records). Utilizes files to be able to save the data and add to update the files with any changes"
+      ]
+    },
+    {
+      "name": "UHM Study"
+      "highlights": [ 
+        "UHM Study is a web application for students to find study buddies online. It allows users to connect and schedule study sessions. The goal of this project is to solve students’ issues with not having someone to study with. This project aims to increase student productivity and network."
+      ]
     }
   ]
 }
