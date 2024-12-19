@@ -17,13 +17,13 @@ labels:
 
 Software engineering encompasses a broad range of practices and principles that go beyond the development of web applications. Throughout this course, I have gained a deeper understanding of several key software engineering concepts, such as Open Source Software Development, Agile Project Management, and Design Patterns. These topics, though introduced in the context of web application development, have a wide range of applications in other areas of software engineering. In this essay, I will reflect on these three topics and discuss their broader significance.
 
-<img width="200px" class="rounded float-start pe-4" src="../img/gitty.jpg">
-
 Open Source Software Development (OSSD) refers to the practice of making the source code of a software project freely available for anyone to use, modify, and distribute. This approach fosters collaboration and innovation by enabling developers worldwide to contribute to a project. In this course, I learned the importance of tools like Git and platforms such as GitHub for managing open source projects. These tools facilitate version control, collaboration, and issue tracking.
 
 Beyond web applications, OSSD is critical in fields such as scientific research, where open source software like Python libraries and data analysis tools accelerate knowledge sharing and reproducibility. For example, a bioinformatics project can benefit from open source by leveraging the collective expertise of scientists and developers across the globe. Additionally, adopting open source principles encourages transparency, which can build trust in software systems used for public purposes, such as election auditing or healthcare management.
 
 Agile Project Management is a flexible and iterative approach to managing software projects. It emphasizes collaboration, adaptability, and delivering small, functional increments of a project over short time periods, called sprints. Within this framework, Issue Driven Project Management (IDPM) focuses on breaking down a project into discrete, manageable tasks or issues. Each issue represents a specific feature, bug, or task that needs to be addressed, and team members are assigned to these issues based on priority.
+
+<img width="300px" class="rounded float-start pe-4" src="../img/gitty.jpg">
 
 In this course, I experienced firsthand the effectiveness of IDPM for organizing and tracking progress in team projects. This method can extend beyond web application development to any software engineering project, such as developing embedded systems for IoT devices or building machine learning models. For example, in a robotics project, IDPM can help organize tasks like hardware integration, sensor calibration, and software control into clear, actionable issues, ensuring that each component is systematically addressed while maintaining overall progress.
 
