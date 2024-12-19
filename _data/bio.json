@@ -22,7 +22,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "Python", "Java", "html", "CSS" ]
+      "keywords": [ "C", "Python", "React", "Next.js" ]
     }
   ],
   "education": [
@@ -50,14 +50,16 @@
       ]
     },
     {
-      "company": "Basalt Waikiki",
-      "position": "Busser/Runner",
+      "company": "Kekūhaupiʻo Tech Mentorship",
+      "position": "Mentee",
       "website": "",
-      "startDate": "2022-02-14",
+      "startDate": "2024-12-03",
       "endDate": "Present",
-      "summary": "Ensured tables were clean and properly set for guests, and efficiently delivered dishes to the correct table and individual, providing prompt and attentive service.",
+      "summary": "Enhanced leadership and technical skills through industry collaboration, IT projects, and professional development workshops, fostering career readiness and critical thinking.",
       "highlights": [
-        "Adapted seamlessly to various roles in the restaurant, including hosting, running, and bar-backing, as needed to maintain optimal customer service and efficiency.",
+        "Developed Advanced Leadership and Technical Skills – Collaborated with industry professionals to enhance technical competencies, cultivate leadership abilities, and gain hands-on experience in IT projects.",
+        "Focused on Professional Development and Career Readiness – Engaged in rigorous training and workshops designed to foster career growth, sharpen critical thinking, and build tangible, marketable skills aligned with industry needs.",
+        "Currently a mentee under Ronald Yu IT Infrastructure Systems Department Manager at Hawaii State Federal Credit Union"        
       ]
     }
   ],
