@@ -1,34 +1,36 @@
 ---
 layout: essay
 type: essay
-title: "Reflect on Your Use of AI in ICS 314"
+title: "Reflect on Software Engineering"
 # All dates must be YYYY-MM-DD format!
-date: 2024-12-16
+date: 2024-12-18
 published: true
 labels:
   - Software Engineering
   - Learning
   - Organization
-  - AI
 ---
 
 <img width="500px" class="rounded float-start pe-4" src="../img/gpt.png">
 
-# How AI got me through School
+# We Made It Guys!!!!
 
-The use of Artificial Intelligence (AI) has exponentially excelled my learning in this class, transforming the way I approach problems and develop solutions. Having AI available allows me to get help whenever I need, especially when TA’s and Professors are available when an issue occurs. Throughout my academic and professional journey, including my experience in ICS 314, I have utilized several AI-powered tools to support my learning and development processes. Among the tools I have employed are GitHub Copilot, ChatGPT, and Claude.
+Software engineering encompasses a broad range of practices and principles that go beyond the development of web applications. Throughout this course, I have gained a deeper understanding of several key software engineering concepts, such as Open Source Software Development, Agile Project Management, and Design Patterns. These topics, though introduced in the context of web application development, have a wide range of applications in other areas of software engineering. In this essay, I will reflect on these three topics and discuss their broader significance.
 
-When using AI specifically for all the WODs I heavily relied on chatGPT to help code and explain how the function would work so I could understand how to code it and how it works for future reference. In almost every practice WOD I required chatGPT to write the code for me, then explain to me how it worked line by line to see how it functioned.. For essays I only used AI to structure my essay better and word choice. The use of AI was integral to making my project work, many things like creating card components and structuring the exactly how I wanted would not have been able to to be done without the use of AI.
+Open Source Software Development (OSSD) refers to the practice of making the source code of a software project freely available for anyone to use, modify, and distribute. This approach fosters collaboration and innovation by enabling developers worldwide to contribute to a project. In this course, I learned the importance of tools like Git and platforms such as GitHub for managing open source projects. These tools facilitate version control, collaboration, and issue tracking.
 
-Outside ICS 314, I have explored practical applications of AI in real-world projects and collaborative activities. For example I always use chatGPT to create practice exams to prep and learn for me to do well for my Physics 152 class. Whenever I get stumped on a specific problem I could also ask chatGPT to solve the problem and show their work and formulas.
+Beyond web applications, OSSD is critical in fields such as scientific research, where open source software like Python libraries and data analysis tools accelerate knowledge sharing and reproducibility. For example, a bioinformatics project can benefit from open source by leveraging the collective expertise of scientists and developers across the globe. Additionally, adopting open source principles encourages transparency, which can build trust in software systems used for public purposes, such as election auditing or healthcare management.
 
-While AI tools have been proven to make many things easier,, I have encountered challenges and limitations in their use. For instance, sometimes when trying to create a specific aspect of the UI the prompt that I provide chatGPT will not fully understand what I want giving unwanted results that can’t be used. Despite these challenges, AI presents significant opportunities for further integration into software engineering education
+Agile Project Management is a flexible and iterative approach to managing software projects. It emphasizes collaboration, adaptability, and delivering small, functional increments of a project over short time periods, called sprints. Within this framework, Issue Driven Project Management (IDPM) focuses on breaking down a project into discrete, manageable tasks or issues. Each issue represents a specific feature, bug, or task that needs to be addressed, and team members are assigned to these issues based on priority.
 
-Compared to traditional teaching methods, AI-enhanced approaches offer numerous benefits in learning software engineering. AI offers real time feedback whenever necessary allowing for students to learn on their own schedule whenever there's conflict with office hours. Traditional teaching methods still play an essential role in developing foundational skills, but AI tools complement these methods by enhancing efficiency and personalization.
+In this course, I experienced firsthand the effectiveness of IDPM for organizing and tracking progress in team projects. This method can extend beyond web application development to any software engineering project, such as developing embedded systems for IoT devices or building machine learning models. For example, in a robotics project, IDPM can help organize tasks like hardware integration, sensor calibration, and software control into clear, actionable issues, ensuring that each component is systematically addressed while maintaining overall progress.
 
-Looking ahead, AI will play an increasingly prominent role in software engineering education. But it also heavily affects the growth of software engineers. With everyone relying on chatGPT, the next generation of coders may not be able to relay the same results in the workforce. It may come to the point where many jobs that people are working now will get replaced by AI unless they have something special that AI can’t do.
+Design Patterns are reusable solutions to common software design problems. These patterns provide a standardized approach to solving issues that arise in software development, such as managing object creation or facilitating communication between components. Examples of design patterns include the Singleton pattern, which ensures that a class has only one instance, and the Observer pattern, which allows objects to react to changes in another object.
 
-AI has significantly enhanced my learning experience in ICS 314 and beyond, enabling me to overcome challenges, improve my coding skills, and learn more efficiently. While tools like ChatGPT and GitHub Copilot provide valuable support, they also come with limitations, such as occasional misunderstandings. Looking ahead, AI will play a larger role in software engineering education, offering personalized learning and real-time assistance. However, it is essential to balance AI use with developing foundational skills to ensure the next generation of software engineers remains capable and innovative.
+During this course, I learned how to apply design patterns to create more maintainable and scalable code. Their utility extends far beyond web applications; they are applicable in game development, desktop applications, and even systems programming. For instance, in game development, the Observer pattern is often used to implement event-driven mechanics, such as updating the user interface in response to player actions. By providing a shared vocabulary for addressing design challenges, design patterns enhance collaboration among developers and reduce the likelihood of introducing architectural flaws.
+
+The concepts of Open Source Software Development, Agile Project Management, and Design Patterns represent just a few of the foundational principles I have learned in this course. Each of these topics has applications that transcend web application development and can be adapted to a variety of software engineering contexts. This course has equipped me not only with technical skills but also with a mindset that emphasizes collaboration, adaptability, and thoughtful design—essential qualities for any software engineer. Moving forward, I am confident that these principles will guide me in tackling complex challenges in diverse domains of software development.
+
 
 
 
