@@ -17,7 +17,7 @@ labels:
 
 Software engineering encompasses a broad range of practices and principles that go beyond the development of web applications. Throughout this course, I have gained a deeper understanding of several key software engineering concepts, such as Open Source Software Development, Agile Project Management, and Design Patterns. These topics, though introduced in the context of web application development, have a wide range of applications in other areas of software engineering. In this essay, I will reflect on these three topics and discuss their broader significance.
 
-<img width="500px" class="rounded float-start pe-4" src="../img/gitty.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/gitty.jpg">
 
 Open Source Software Development (OSSD) refers to the practice of making the source code of a software project freely available for anyone to use, modify, and distribute. This approach fosters collaboration and innovation by enabling developers worldwide to contribute to a project. In this course, I learned the importance of tools like Git and platforms such as GitHub for managing open source projects. These tools facilitate version control, collaboration, and issue tracking.
 
