@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: img/tacocat.png
-title: "Palindrome"
+image: img/finallogo.png
+title: "UHM Study"
 date: 2024-12-13
 published: true
 labels:
