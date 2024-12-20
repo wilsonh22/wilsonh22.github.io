@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/finallogo.png
+image: img/owlbuddy.jpg
 title: "UHM Study"
 date: 2024-12-13
 published: true
