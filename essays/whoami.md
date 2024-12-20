@@ -4,7 +4,7 @@ type: essay
 title: "How’d I get here"
 # All dates must be YYYY-MM-DD format!
 date: 2024-09-08
-published: True
+published: False
 labels:
   - Computer Science
 ---
