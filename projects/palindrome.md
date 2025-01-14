@@ -23,4 +23,3 @@ In this program, I was responsible for connecting data to the database, ensuring
 This project provided valuable insights into the dynamics of effective teamwork in development. I learned the importance of clear communication to ensure that everyone stays aligned and informed throughout the process. Additionally, this project enhanced my proficiency with GitHub in a team setting, particularly through using features like push/pull upstream, creating pull requests, and working with forked repositories to make edits collaboratively.
 
 for more information about the website click [here](https://uhm-studymax.github.io/)
-```
